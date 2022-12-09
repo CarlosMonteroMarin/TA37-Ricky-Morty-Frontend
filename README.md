@@ -1,3 +1,6 @@
+
+URL: https://main.d3uat28xjt3o3i.amplifyapp.com/
+
 # TA37RickyMortyFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
